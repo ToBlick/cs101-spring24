@@ -49,13 +49,13 @@ Code snippets from the lectures can be found [here](https://github.com/ToBlick/c
 | 4/1 | Wed | 19 | Abstract classes | [Abstract classes](../slides/abstract-classes) | - Chapter 13<br />- [Abstract classes example code](https://github.com/nyu-java-programming/abstract-classes-examples) | |
 | 4/6 | Mon | 20 | Interfaces | [Interfaces](../slides/interfaces) | - Chapter 13<br />- [Interfaces example code](https://github.com/nyu-java-programming/interface-examples) | |
 | 4/8 | Wed | 21 | Review | [Review](../slides/exam-2-review) | | |
-| 4/13 | Mon | 22 | **Exam #2** | | | |
-| 4/15 | Wed | 23 | Exam #2 discussion | | | |
+| 4/13 | Mon | 22 | Memory in Java | | | |
+| 4/15 | Wed | 23 | **Exam #2** | | | |
 | 4/16 | Thu | — | | | | *Withdrawal Deadline* |
 | 4/20 | Mon | 24 | Exception handling | [Exception handling](../slides/exception-handling) | - Chapter 12<br />- [Exceptions example code](https://github.com/nyu-java-programming/exceptions-examples) | |
 | 4/22 | Wed | 25 | Recursion | [Recursion](../slides/recursion) | - Chapter 18<br />- [Recursion example code](https://github.com/nyu-java-programming/recursion-examples) | |
-| 4/27 | Mon | 26 | Review | [Review](../slides/exam-3-review) | | |
-| 4/29 | Wed | 27 | tbd |  | | |
-| 5/4 | Mon | 28 | tbd |  | | |
+| 4/27 | Mon | 26 | Quiz 3 | [Review](../slides/exam-3-review) | | |
+| 4/29 | Wed | 27 | Quiz 4 |  | | |
+| 5/4 | Mon | 28 | **Exam #3** |  | | |
 | 5/5 | Tue | — | | | | *Last day of classes* |
 | 5/7–5/13 | | — | *Final Exam Period* | | | |
